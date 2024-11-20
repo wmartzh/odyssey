@@ -3,8 +3,28 @@
     "name": "Odyssey"
   },
   "views":{
-    "home": {
-      "title": "Home"
+
+  },
+  "forms":{
+    "login": {
+      "title": "Odyssey",
+      "email": "Email",
+      "password": "Password",
+      "submit": "Login",
+      "email_placeholder": "Enter your email",
+      "password_placeholder": "Enter your password",
+      "register": "Register"
+    },
+    "register": {
+      "title": "Register",
+      "email": "Email",
+      "password": "Password",
+      "confirm_password": "Confirm Password",
+      "submit": "Register",
+      "email_placeholder": "Enter your email",
+      "password_placeholder": "Enter your password",
+      "confirm_password_placeholder": "Confirm your password",
+      "login": "Login"
     }
   }
 }
